@@ -21,4 +21,3 @@ Lumina leverages **Large Language Models** and **advanced Retrieval Augmented Ge
 - Database: Prisma + Postgres
 - Web3: Solidity, Hardhat, Ethers.js, Ethereum (Sepolia Testnet)
 
-> Built in 36 hours at Hack4Bengal 4.0
